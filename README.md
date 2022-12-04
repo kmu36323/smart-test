@@ -1,0 +1,2 @@
+# smart-test
+test contract
